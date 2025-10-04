@@ -12,4 +12,4 @@ Nuestro primer proyecto en equipo.
 
 - usuario B : Cristian Quebrada
 
--usuario C : Edwin perez
+- Usuario C : Edwin Perez Lozano
