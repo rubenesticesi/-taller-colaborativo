@@ -10,5 +10,4 @@ Nuestro primer proyecto en equipo.
 ## Participantes:
 - Usuario A : Ruben Dario Sabogal U
 - usuario B : Cristian Quebrada
-  
 -usuario C : Edwin perez
