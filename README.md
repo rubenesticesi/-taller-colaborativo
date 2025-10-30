@@ -1,4 +1,4 @@
-# -taller-colaborativo
+# Taller-colaborativo
  Nuestro primer proyecto en equipo.
  Equipo conformado por:
  Edwin Perez
