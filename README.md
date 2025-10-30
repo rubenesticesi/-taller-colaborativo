@@ -5,7 +5,7 @@
  Cristian Quebrada
  Ruben Dario Sabogal
 
- # El Gran Taller Colaborativo
+ # SIMAT - Sistema Integrado de Matriculas
 Nuestro primer proyecto en equipo.
 ## Participantes:
 - Usuario A : Ruben Dario Sabogal U
