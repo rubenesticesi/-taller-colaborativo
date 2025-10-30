@@ -1,3 +1,5 @@
+![](simat2.png)
+
 # Taller-colaborativo
  Nuestro primer proyecto en equipo.
  Equipo conformado por:
