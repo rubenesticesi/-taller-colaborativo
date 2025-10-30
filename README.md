@@ -1,12 +1,25 @@
+## UNIVERSIDAD ICESI - MAAI
+![Logo Icesi](icesi.png)
+
 # Proyecto de IA Aplicada: Predicción de Educación Primaria en Niños con Autismo
 
-Este repositorio contiene el desarrollo del proyecto de Inteligencia Artificial Aplicada de la Maestría, enfocado en la **Predicción de la Educación Primaria en niños con Autismo** en la etapa escolar, utilizando la base de datos del SIMAT (Sistema de Matrícula Estudiantil de Educación Básica y Media) del año 2025.
+Este repositorio contiene el desarrollo del proyecto de Inteligencia Artificial Aplicada de la Maestría, enfocado en la **Predicción de la Educación Primaria en niños con Autismo** en la etapa escolar.
 
-![SIMAT](SIMAT2.png)
+## Contexto: Autismo
+![Síntomas y características del Autismo](sintomas.png)
+
+## Fuente de Datos: SIMAT
+
+El proyecto utiliza como fuente principal los registros anonimizados del **SIMAT** (Sistema de Matrícula Estudiantil de Educación Básica y Media) del año 2025.
+
+![Login SIMAT](SIMAT2.png)
+![Descripción de qué es el SIMAT](que_es_el_simat.png)
+
+---
 
 ## 🎯 Descripción del Proyecto
 
-El objetivo principal de este proyecto es aplicar técnicas de Ciencia de Datos e Inteligencia Artificial para analizar y predecir trayectorias educativas en la educación primaria de estudiantes diagnosticados con autismo. Buscamos identificar patrones y factores clave que influyen en su proceso de matrícula y permanencia, utilizando como fuente principal los registros anonimizados del SIMAT.
+El objetivo principal de este proyecto es aplicar técnicas de Ciencia de Datos e Inteligencia Artificial para analizar y predecir trayectorias educativas en la educación primaria de estudiantes diagnosticados con autismo. Buscamos identificar patrones y factores clave que influyen en su proceso de matrícula y permanencia.
 
 ---
 
