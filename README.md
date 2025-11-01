@@ -18,9 +18,29 @@ El objetivo principal de este proyecto es aplicar técnicas de Ciencia de Datos 
 
 Este proyecto está siendo desarrollado por los siguientes alumnos de la Maestría:
 
-* Cristian Quebrada
-* Edwin Perez Lozano
-* Ruben Dario Sabogal
+| Nombre | Correo | Usuario |
+|:-------|:--------|:--------|
+| [Cristian Quebrada](https://github.com/cris-bytes) | criistianq90@gmail.com| @cris-bytes|
+| [Edwin  Perez Lozano](https://github.com/poppetmaster) | edwinandperez@gmail.com| @poppetmaster|
+| [Rubén Darío Sabogal Urbano](https://github.com/rubenesticesi) | 16704992@u.icesi.edu.co| @rubenesticesi|
+
+---
+## 🧠 Métodos Utilizados
+
+- Estadística inferencial 
+- Aprendizaje automático (Machine Learning)  
+- Visualización de datos  
+- Modelado predictivo  
+- Análisis exploratorio  
+- ETL (Extracción, Transformación y Carga de datos)
+
+---
+
+## 🧰 Tecnologías
+
+- **Lenguajes:** Python 
+- **Herramientas:** Pandas, NumPy, Jupyter Notebooks
+- **Otros:** GitHub
 
 ---
 
@@ -34,7 +54,13 @@ El análisis y desarrollo de los modelos se encuentran documentados en los sigui
 
 ---
 
-## Repository
+## 📄 Licencia
 
-Este proyecto se encuentra alojado en el repositorio:
-[https://github.com/rubenesticesi/-taller-colaborativo](https://github.com/rubenesticesi/-taller-colaborativo)
+Este proyecto se distribuye bajo licencia [MIT](https://opensource.org/licenses/MIT) o la que defina la universidad.
+
+---
+
+## 🏫 Universidad Icesi – Maestría en Inteligencia Artificial Aplicada
+
+Proyecto académico desarrollado en el marco del curso **Proyecto I – Innovación Tecnológica**.  
+**Cali, Colombia – 2025**
