@@ -18,8 +18,8 @@ El objetivo principal de este proyecto es aplicar técnicas de Ciencia de Datos 
 
 Este proyecto está siendo desarrollado por los siguientes alumnos de la Maestría:
 
-* Edwin Yepes
 * Cristian Quebrada
+* Edwin Perez Lozano
 * Ruben Dario Sabogal
 
 ---
